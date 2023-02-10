@@ -3,7 +3,7 @@ Khazna is a marketplace for used books, where you can sell your used books or br
     - It's both an android and an ios app, though now it's just the ios, and it's still in development duh.
     
 Here are some screenshots from the app :-
-    ![My Image](Screenshots/Home-Screen.png)
+    ![My Image](Screenshots/Home_Screen.png)
     /Users/mac/Desktop/Khazana WireFrame/Home Screen.png
     /Users/mac/Desktop/Khazana WireFrame/Cart Screen.png
     /Users/mac/Desktop/Khazana WireFrame/Profile Page.png
