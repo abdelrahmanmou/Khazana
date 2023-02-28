@@ -8,6 +8,9 @@
 
 > Khazana is an innovative mobile application that provides a platform for bibliophiles to engage in the thriving trade of second-hand books. Available on both iOS and Android, this cutting-edge app is designed to serve as an expansive marketplace, wherein users can easily buy and sell pre-loved books, thus fostering a sense of community among book aficionados. With its intuitive and user-friendly interface, Khazana allows users to browse through an extensive collection of previously owned books and effortlessly add to their personal libraries, while simultaneously affording them the opportunity to list their own books for sale. Whether you're looking to expand your literary horizons or simply hoping to pass on your literary treasures to another bibliophile, Khazana is the ultimate solution for your book trading needs.
 
+<img width="302" alt="Homepage Screenshot" src="https://user-images.githubusercontent.com/26511503/221919026-2a195311-fb1a-42c1-82c1-3d589fb79471.png">
+
+
 ## Author
 
 👤 **Abdelrahman Moustafa**
